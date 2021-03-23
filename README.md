@@ -5,5 +5,7 @@ A GUI tool to view metadeta from an image
     exif
     tkinter
     pyperclip
-![sample](https://user-images.githubusercontent.com/38325426/112173955-3ae72100-8c20-11eb-9faf-9f709f0c3861.JPG)
+
+![sample](https://user-images.githubusercontent.com/38325426/112174149-5f42fd80-8c20-11eb-92f5-02909198b7e3.JPG)
+
   
